@@ -21,6 +21,7 @@ This project uses the **OpenWeatherMap API** to fetch a 5-day weather forecast f
 The visualization helps users easily understand upcoming weather patterns, including temperature fluctuations and overall conditions, by converting numerical API data into an easy-to-read graph. This dashboard is useful for anyone needing a quick visual snapshot of the weather in their area or a city of interest.
 
 ## Features Implemented
+
 1. **API Integration**: The script fetches real-time weather forecast data from OpenWeatherMap’s REST API using the requests library.
 
 2.**User Interaction**: The user can input any city name, and the script will fetch and display the relevant forecast data.
@@ -32,12 +33,12 @@ The visualization helps users easily understand upcoming weather patterns, inclu
 5.**Forecast Summary**: The script also prints a 5-day temperature forecast on the console in a user-friendly format.
 
 ## Technologies Used
--Python
--OpenWeatherMap API
--Matplotlib (for data visualization)
--Requests (for API handling)
--Dotenv (for environment variable handling)
--Pandas (for data manipulation and tabular structure)
+- Python
+- OpenWeatherMap API
+- Matplotlib (for data visualization)
+- Requests (for API handling)
+- Dotenv (for environment variable handling)
+- Pandas (for data manipulation and tabular structure)
 
 ## Visualization Dashboard
 The chart is created using **Matplotlib** with the ggplot style. Each day's temperature is marked with a circular dot (marker='o') and the temperature value is displayed above the point. The x-axis represents the date, and the y-axis represents the temperature in Celsius. A legend is added, and the chart is grid-aligned for clarity.
