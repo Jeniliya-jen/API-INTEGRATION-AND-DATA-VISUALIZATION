@@ -22,15 +22,15 @@ The visualization helps users easily understand upcoming weather patterns, inclu
 
 ## Features Implemented
 
-1.**API Integration**: The script fetches real-time weather forecast data from OpenWeatherMap’s REST API using the requests library.
+1. **API Integration**: The script fetches real-time weather forecast data from OpenWeatherMap’s REST API using the requests library.
 
-2.**User Interaction**: The user can input any city name, and the script will fetch and display the relevant forecast data.
+2. **User Interaction**: The user can input any city name, and the script will fetch and display the relevant forecast data.
 
-3.**Data Processing**: The script filters raw API data to show only one entry per day, providing a concise summary.
+3. **Data Processing**: The script filters raw API data to show only one entry per day, providing a concise summary.
 
-4.**Data Visualization**: A clean and informative temperature vs. date graph is generated using matplotlib, enhancing readability and usefulness.
+4. **Data Visualization**: A clean and informative temperature vs. date graph is generated using matplotlib, enhancing readability and usefulness.
 
-5.**Forecast Summary**: The script also prints a 5-day temperature forecast on the console in a user-friendly format.
+5. **Forecast Summary**: The script also prints a 5-day temperature forecast on the console in a user-friendly format.
 
 ## Technologies Used
 - Python
