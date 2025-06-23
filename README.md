@@ -53,5 +53,5 @@ The chart is created using **Matplotlib** with the ggplot style. Each day's temp
 This project provided an insightful experience in integrating real-time data from the **OpenWeatherMap API** and visualizing it using Python libraries like **matplotlib** and **pandas**. The script effectively displays a five-day weather forecast based on user input, offering both a textual summary and a clear graphical dashboard. By handling data securely through environment variables and applying clean coding practices, I was able to build a reliable and informative tool. I am sincerely thankful to **CodTech** for offering this opportunity, which enhanced my practical skills in **API handling**, **Data processing**, and **Visualization**.
 
 ## OUTPUT
-![Image](https://github.com/user-attachments/assets/de510416-a087-4740-8de4-ddaaa8c26313)
+![Image](https://github.com/user-attachments/assets/ab5e4e79-e3a8-4998-a5bb-e94d44df60ea)
 
