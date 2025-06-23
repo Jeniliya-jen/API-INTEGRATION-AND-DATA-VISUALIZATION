@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTHOSH
+*MENTOR*:  NEELA SANTHOSH
 
 # API-INTEGRATION-AND-DATA-VISUALIZATION – CodTech Internship Task 1
 This project is part of Task 1 for the CodTech Python Internship. The objective is to integrate a public API (OpenWeatherMap) into a Python script and generate a data visualization dashboard using libraries such as matplotlib or seaborn. This task demonstrates my ability to fetch, process, and visualize real-time data using industry-relevant tools, practices, and coding standards.
